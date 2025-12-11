@@ -1,0 +1,313 @@
+order_id,product,quantity,customer_id
+1,Bread,2,101
+1,Milk,1,101
+1,Butter,1,101
+1,Eggs,1,101
+2,Coffee,1,102
+2,Sugar,1,102
+2,Milk,1,102
+2,Coffee Filters,1,102
+3,Chicken,1,103
+3,Rice,2,103
+3,Vegetables,1,103
+3,Soy Sauce,1,103
+4,Bread,1,104
+4,Peanut Butter,1,104
+4,Jam,1,104
+5,Toothpaste,1,105
+5,Toothbrush,1,105
+5,Mouthwash,1,105
+6,Laptop,1,106
+6,Mouse,1,106
+6,Keyboard,1,106
+6,Laptop Bag,1,106
+7,Smartphone,1,107
+7,Phone Case,1,107
+7,Screen Protector,1,107
+7,Charger,1,107
+8,Bread,2,108
+8,Milk,1,108
+8,Eggs,1,108
+9,Coffee,1,109
+9,Sugar,1,109
+9,Cream,1,109
+10,Chicken,1,110
+10,Rice,1,110
+10,Spices,1,110
+11,Shampoo,1,111
+11,Conditioner,1,111
+11,Hair Gel,1,111
+12,Bread,1,112
+12,Butter,1,112
+12,Jam,1,112
+13,Laptop,1,113
+13,Mouse,1,113
+13,USB Cable,2,113
+14,Smartphone,1,114
+14,Phone Case,1,114
+14,Wireless Earbuds,1,114
+15,Bread,1,115
+15,Milk,1,115
+15,Cereal,1,115
+15,Bananas,1,115
+16,Coffee,2,116
+16,Sugar,1,116
+16,Milk,1,116
+17,Chicken,2,117
+17,Rice,2,117
+17,Vegetables,2,117
+18,Toothpaste,1,118
+18,Toothbrush,1,118
+18,Dental Floss,1,118
+19,Bread,1,119
+19,Peanut Butter,1,119
+19,Honey,1,119
+20,Laptop,1,120
+20,Mouse,1,120
+20,Monitor,1,120
+20,HDMI Cable,1,120
+21,Smartphone,1,121
+21,Phone Case,1,121
+21,Power Bank,1,121
+22,Bread,2,122
+22,Milk,1,122
+22,Eggs,1,122
+22,Butter,1,122
+23,Coffee,1,123
+23,Sugar,1,123
+23,Coffee Filters,1,123
+24,Chicken,1,124
+24,Rice,1,124
+24,Curry Powder,1,124
+25,Shampoo,1,125
+25,Conditioner,1,125
+25,Shower Gel,1,125
+26,Bread,1,126
+26,Jam,1,126
+26,Butter,1,126
+27,Laptop,1,127
+27,Keyboard,1,127
+27,Mouse Pad,1,127
+28,Smartphone,1,128
+28,Screen Protector,1,128
+28,Phone Stand,1,128
+29,Bread,1,129
+29,Milk,1,129
+29,Yogurt,1,129
+30,Coffee,1,130
+30,Sugar,1,130
+30,Milk,1,130
+30,Cookies,1,130
+31,Chicken,1,131
+31,Rice,1,131
+31,Chicken Stock,1,131
+32,Toothpaste,1,132
+32,Toothbrush,1,132
+32,Tongue Cleaner,1,132
+33,Bread,2,133
+33,Peanut Butter,1,133
+33,Jam,1,133
+34,Laptop,1,134
+34,Mouse,1,134
+34,USB Hub,1,134
+35,Smartphone,1,135
+35,Phone Case,1,135
+35,Tempered Glass,1,135
+36,Bread,1,136
+36,Milk,1,136
+36,Cereal,1,136
+37,Coffee,1,137
+37,Sugar,1,137
+37,Coffee Mug,1,137
+38,Chicken,1,138
+38,Rice,1,138
+38,Garlic,1,138
+39,Shampoo,1,139
+39,Conditioner,1,139
+39,Hair Oil,1,139
+40,Bread,1,140
+40,Butter,1,140
+40,Eggs,1,140
+41,Laptop,1,141
+41,Laptop Bag,1,141
+41,Mouse,1,141
+42,Smartphone,1,142
+42,Wireless Earbuds,1,142
+42,Phone Case,1,142
+43,Bread,2,143
+43,Milk,1,143
+43,Eggs,1,143
+44,Coffee,1,144
+44,Sugar,1,144
+44,Cream,1,144
+45,Chicken,2,145
+45,Rice,2,145
+45,Onions,1,145
+46,Toothpaste,1,146
+46,Toothbrush,1,146
+46,Mouthwash,1,146
+47,Bread,1,147
+47,Peanut Butter,1,147
+47,Bananas,1,147
+48,Laptop,1,148
+48,Keyboard,1,148
+48,Mouse,1,148
+49,Smartphone,1,149
+49,Screen Protector,1,149
+49,Charger,1,149
+50,Bread,1,150
+50,Milk,1,150
+50,Yogurt,1,150
+50,Granola,1,150
+51,Coffee,1,151
+51,Sugar,1,151
+51,Biscuits,1,151
+52,Chicken,1,152
+52,Rice,1,152
+52,Tomatoes,1,152
+53,Shampoo,1,153
+53,Conditioner,1,153
+53,Hair Mask,1,153
+54,Bread,2,154
+54,Butter,1,154
+54,Jam,1,154
+55,Laptop,1,155
+55,Mouse,1,155
+55,Webcam,1,155
+56,Smartphone,1,156
+56,Phone Case,1,156
+56,Pop Socket,1,156
+57,Bread,1,157
+57,Milk,1,157
+57,Eggs,1,157
+58,Coffee,2,158
+58,Sugar,1,158
+58,Coffee Filters,1,158
+59,Chicken,1,159
+59,Rice,1,159
+59,Ginger,1,159
+60,Toothpaste,1,160
+60,Toothbrush,1,160
+60,Whitening Strips,1,160
+61,Bread,1,161
+61,Peanut Butter,1,161
+61,Apple,1,161
+62,Laptop,1,162
+62,Monitor,1,162
+62,HDMI Cable,1,162
+63,Smartphone,1,163
+63,Wireless Earbuds,1,163
+63,Phone Case,1,163
+64,Bread,1,164
+64,Milk,1,164
+64,Cereal,1,164
+65,Coffee,1,165
+65,Sugar,1,165
+65,Milk,1,165
+66,Chicken,1,166
+66,Rice,1,166
+66,Coriander,1,166
+67,Shampoo,1,167
+67,Conditioner,1,167
+67,Hair Serum,1,167
+68,Bread,2,168
+68,Butter,1,168
+68,Eggs,1,168
+69,Laptop,1,169
+69,Mouse,1,169
+69,Keyboard,1,169
+70,Smartphone,1,170
+70,Screen Protector,1,170
+70,Phone Case,1,170
+71,Bread,1,171
+71,Milk,1,171
+71,Yogurt,1,171
+72,Coffee,1,172
+72,Sugar,1,172
+72,Coffee Beans,1,172
+73,Chicken,1,173
+73,Rice,1,173
+73,Turmeric,1,173
+74,Toothpaste,1,174
+74,Toothbrush,1,174
+74,Interdental Brushes,1,174
+75,Bread,1,175
+75,Peanut Butter,1,175
+75,Jam,1,175
+76,Laptop,1,176
+76,Laptop Bag,1,176
+76,Mouse,1,176
+77,Smartphone,1,177
+77,Power Bank,1,177
+77,Phone Case,1,177
+78,Bread,1,178
+78,Milk,1,178
+78,Eggs,1,178
+79,Coffee,1,179
+79,Sugar,1,179
+79,Cream,1,179
+80,Chicken,2,180
+80,Rice,2,180
+80,Chili Powder,1,180
+81,Shampoo,1,181
+81,Conditioner,1,181
+81,Hair Spray,1,181
+82,Bread,1,182
+82,Butter,1,182
+82,Jam,1,182
+83,Laptop,1,183
+83,Mouse,1,183
+83,USB Cable,1,183
+84,Smartphone,1,184
+84,Wireless Earbuds,1,184
+84,Screen Protector,1,184
+85,Bread,2,185
+85,Milk,1,185
+85,Cereal,1,185
+86,Coffee,1,186
+86,Sugar,1,186
+86,Coffee Mug,1,186
+87,Chicken,1,187
+87,Rice,1,187
+87,Cumin,1,187
+88,Toothpaste,1,188
+88,Toothbrush,1,188
+88,Mouthwash,1,188
+89,Bread,1,189
+89,Peanut Butter,1,189
+89,Bananas,1,189
+90,Laptop,1,190
+90,Keyboard,1,190
+90,Mouse Pad,1,190
+91,Smartphone,1,191
+91,Phone Case,1,191
+91,Charger,1,191
+92,Bread,1,192
+92,Milk,1,192
+92,Yogurt,1,192
+93,Coffee,1,193
+93,Sugar,1,193
+93,Coffee Filters,1,193
+94,Chicken,1,194
+94,Rice,1,194
+94,Garlic Paste,1,194
+95,Shampoo,1,195
+95,Conditioner,1,195
+95,Hair Conditioner Spray,1,195
+96,Bread,1,196
+96,Butter,1,196
+96,Eggs,1,196
+97,Laptop,1,197
+97,Mouse,1,197
+97,Monitor,1,197
+98,Smartphone,1,198
+98,Screen Protector,1,198
+98,Phone Stand,1,198
+99,Bread,1,199
+99,Milk,1,199
+99,Granola,1,199
+100,Coffee,1,200
+100,Sugar,1,200
+100,Milk,1,200
+100,Cookies,1,200
+

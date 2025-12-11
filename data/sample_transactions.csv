@@ -1,0 +1,120 @@
+order_id,product,quantity,customer_id
+1,Laptop,1,101
+1,Wireless Mouse,2,101
+1,Laptop Bag,1,101
+2,Smartphone,1,102
+2,Phone Case,1,102
+2,Screen Protector,2,102
+3,Headphones,1,103
+3,USB Cable,3,103
+4,Laptop,1,104
+4,Wireless Mouse,1,104
+4,Keyboard,1,104
+4,USB Cable,2,104
+5,Smartphone,1,105
+5,Phone Case,1,105
+6,Tablet,1,106
+6,Tablet Stand,1,106
+6,Stylus Pen,1,106
+7,Headphones,1,107
+7,USB Cable,2,107
+8,Laptop,1,108
+8,Laptop Bag,1,108
+8,Wireless Mouse,1,108
+9,Smartphone,1,109
+9,Phone Case,1,109
+9,Screen Protector,1,109
+10,Monitor,1,110
+10,HDMI Cable,2,110
+11,Laptop,1,111
+11,Keyboard,1,111
+11,Wireless Mouse,1,111
+12,Smartphone,1,112
+12,Phone Case,1,112
+13,Headphones,1,113
+13,USB Cable,1,113
+14,Laptop,1,114
+14,Laptop Bag,1,114
+15,Tablet,1,115
+15,Tablet Stand,1,115
+16,Smartphone,1,116
+16,Screen Protector,2,116
+17,Monitor,1,117
+17,HDMI Cable,1,117
+18,Laptop,1,118
+18,Wireless Mouse,2,118
+18,USB Cable,1,118
+19,Headphones,1,119
+19,USB Cable,2,119
+20,Smartphone,1,120
+20,Phone Case,1,120
+20,Screen Protector,1,120
+21,Laptop,1,121
+21,Keyboard,1,121
+21,Laptop Bag,1,121
+22,Tablet,1,122
+22,Stylus Pen,1,122
+23,Monitor,1,123
+23,HDMI Cable,2,123
+24,Laptop,1,124
+24,Wireless Mouse,1,124
+24,USB Cable,2,124
+25,Smartphone,1,125
+25,Phone Case,1,125
+26,Headphones,1,126
+26,USB Cable,1,126
+27,Laptop,1,127
+27,Laptop Bag,1,127
+27,Wireless Mouse,1,127
+28,Smartphone,1,128
+28,Screen Protector,1,128
+29,Tablet,1,129
+29,Tablet Stand,1,129
+30,Monitor,1,130
+30,HDMI Cable,1,130
+31,Laptop,1,131
+31,Keyboard,1,131
+32,Smartphone,1,132
+32,Phone Case,1,132
+32,Screen Protector,1,132
+33,Headphones,1,133
+33,USB Cable,2,133
+34,Laptop,1,134
+34,Wireless Mouse,1,134
+34,Laptop Bag,1,134
+35,Tablet,1,135
+35,Stylus Pen,1,135
+36,Monitor,1,136
+36,HDMI Cable,2,136
+37,Laptop,1,137
+37,USB Cable,1,137
+38,Smartphone,1,138
+38,Phone Case,1,138
+39,Headphones,1,139
+39,USB Cable,1,139
+40,Laptop,1,140
+40,Wireless Mouse,1,140
+40,Keyboard,1,140
+41,Smartphone,1,141
+41,Screen Protector,1,141
+42,Tablet,1,142
+42,Tablet Stand,1,142
+43,Monitor,1,143
+43,HDMI Cable,1,143
+44,Laptop,1,144
+44,Laptop Bag,1,144
+45,Smartphone,1,145
+45,Phone Case,1,145
+45,Screen Protector,1,145
+46,Headphones,1,146
+46,USB Cable,2,146
+47,Laptop,1,147
+47,Wireless Mouse,1,147
+48,Tablet,1,148
+48,Stylus Pen,1,148
+49,Monitor,1,149
+49,HDMI Cable,1,149
+50,Laptop,1,150
+50,Keyboard,1,150
+50,USB Cable,1,150
+
